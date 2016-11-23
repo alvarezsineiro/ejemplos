@@ -1,0 +1,17 @@
+JORNADA
+Clase de : Natacion por POR NOMBRE COMPLETO: Lopez,Juan
+Nacionalidad: Argentino
+
+CARNET NUMERO: 1
+
+CLASES DEL DIA: 
+Natacion
+Natacion
+
+Alumnos:
+POR NOMBRE COMPLETO: Suarez,Joaquin
+Nacionalidad: Extranjero
+
+CARNET NUMERO: 7
+
+<------------------------------->
