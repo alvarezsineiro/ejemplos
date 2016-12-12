@@ -1,0 +1,8 @@
+c:\users\agus\documents\visual studio 2012\Projects\Ejemplo\Punto 4\bin\Debug\Punto 4.exe.config
+C:\Users\Agus\documents\visual studio 2012\Projects\Ejemplo\Punto 4\bin\Debug\Punto 4.exe
+C:\Users\Agus\documents\visual studio 2012\Projects\Ejemplo\Punto 4\bin\Debug\Punto 4.pdb
+C:\Users\Agus\documents\visual studio 2012\Projects\Ejemplo\Punto 4\bin\Debug\Punto 3.exe
+C:\Users\Agus\documents\visual studio 2012\Projects\Ejemplo\Punto 4\bin\Debug\Punto 3.pdb
+C:\Users\Agus\documents\visual studio 2012\Projects\Ejemplo\Punto 4\obj\Debug\Punto 4.csprojResolveAssemblyReference.cache
+C:\Users\Agus\documents\visual studio 2012\Projects\Ejemplo\Punto 4\obj\Debug\Punto 4.exe
+C:\Users\Agus\documents\visual studio 2012\Projects\Ejemplo\Punto 4\obj\Debug\Punto 4.pdb

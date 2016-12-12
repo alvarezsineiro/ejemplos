@@ -1,0 +1,15 @@
+C:\Users\Agus\documents\visual studio 2012\Projects\Ejemplo\Punto 8\bin\Debug\Punto 8.exe.config
+F:\Laboratorio 2\Ejemplo\Punto 8\bin\Debug\Punto 8.exe.config
+F:\Laboratorio 2\Ejemplo\Punto 8\bin\Debug\Punto 8.exe
+F:\Laboratorio 2\Ejemplo\Punto 8\bin\Debug\Punto 8.pdb
+F:\Laboratorio 2\Ejemplo\Punto 8\bin\Debug\Punto 3.exe
+F:\Laboratorio 2\Ejemplo\Punto 8\bin\Debug\Punto 4.exe
+F:\Laboratorio 2\Ejemplo\Punto 8\bin\Debug\Punto 5.exe
+F:\Laboratorio 2\Ejemplo\Punto 8\bin\Debug\Punto 1.exe
+F:\Laboratorio 2\Ejemplo\Punto 8\bin\Debug\Punto 3.pdb
+F:\Laboratorio 2\Ejemplo\Punto 8\bin\Debug\Punto 4.pdb
+F:\Laboratorio 2\Ejemplo\Punto 8\bin\Debug\Punto 5.pdb
+F:\Laboratorio 2\Ejemplo\Punto 8\bin\Debug\Punto 1.pdb
+F:\Laboratorio 2\Ejemplo\Punto 8\obj\Debug\Punto 8.csprojResolveAssemblyReference.cache
+F:\Laboratorio 2\Ejemplo\Punto 8\obj\Debug\Punto 8.exe
+F:\Laboratorio 2\Ejemplo\Punto 8\obj\Debug\Punto 8.pdb

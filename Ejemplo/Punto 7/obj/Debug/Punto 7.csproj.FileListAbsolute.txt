@@ -1,0 +1,5 @@
+C:\Users\Agus\documents\visual studio 2012\Projects\Ejemplo\Punto 7\bin\Debug\Punto 7.exe.config
+C:\Users\Agus\documents\visual studio 2012\Projects\Ejemplo\Punto 7\bin\Debug\Punto 7.exe
+C:\Users\Agus\documents\visual studio 2012\Projects\Ejemplo\Punto 7\bin\Debug\Punto 7.pdb
+C:\Users\Agus\documents\visual studio 2012\Projects\Ejemplo\Punto 7\obj\Debug\Punto 7.exe
+C:\Users\Agus\documents\visual studio 2012\Projects\Ejemplo\Punto 7\obj\Debug\Punto 7.pdb
